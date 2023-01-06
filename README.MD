@@ -26,3 +26,10 @@ using WSL on windows 11.
 
 https://user-images.githubusercontent.com/18203393/211223242-32aad8bf-2412-4eca-9cec-2a0bb67fe195.mp4
 
+Technologies used:
+- Azure Functions
+- Azure SQL Database
+
+Notes:
+
+Was going to use Azure API Management Service due to Azure Functions Legacy Proxy is legacy now and promote to use the new Azure API service, was having issues with getting that resolved, but still proud of what I setup and will go back adventually to get Azure API integrated. 
