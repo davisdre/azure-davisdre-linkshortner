@@ -28,3 +28,7 @@ F3NZ2#txNQ$K
 13. Update function.json to only do 'get' http triggers
 - re-deploy function with latest files.
 14. https://davisdrelinkshortner.azurewebsites.net/api/shortner?path=
+
+
+https://user-images.githubusercontent.com/18203393/211223242-32aad8bf-2412-4eca-9cec-2a0bb67fe195.mp4
+
