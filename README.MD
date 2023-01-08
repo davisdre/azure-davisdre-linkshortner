@@ -5,15 +5,9 @@ using WSL on windows 11.
 1. created a azure function in VS code via Azure extension.
 2. create a azure sql database
 - https://learn.microsoft.com/en-us/azure/azure-sql/database/free-sql-db-free-account-how-to-deploy?view=azuresql
-- created local server admin and used Azure AD admin
-azureuser
-F3NZ2#txNQ$K
-
 - installed azure data studio
-
 - Created a read only DB user to be used for connection string
     - https://www.studyyourdata.com/2019/04/creating-logins-and-users-in-azure.html
--
 3. created azure function, shortner, via azure function extension. using HTTP trigger
 4. updated index.js template
 5. deploy function. 
